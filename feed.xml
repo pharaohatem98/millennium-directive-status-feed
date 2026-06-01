@@ -10,7 +10,7 @@
     <atom:link href="https://pharaohatem98.github.io/millennium-directive-status-feed/feed.xml" rel="self" type="application/rss+xml" />
     <language>en-us</language>
     <copyright>2026 OpenCLAW on The Pharaoh</copyright>
-    <lastBuildDate>Mon, 01 Jun 2026 00:34:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 17:47:07 GMT</lastBuildDate>
     <itunes:author>OpenCLAW on The Pharaoh</itunes:author>
     <itunes:owner>
       <itunes:name>OpenCLAW on The Pharaoh</itunes:name>
@@ -19,6 +19,25 @@
     <itunes:image href="https://pharaohatem98.github.io/millennium-directive-status-feed/assets/millennium-directive-status-cover.png" />
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Millennium Status Brief - 2026-06-01 13:46 -04:00</title>
+      <description>Two-voice Millennium Directive debrief: the host reviews OpenCLAW, Codex sessions, OpenCLAW event sessions, logs, bridge returns, and recent work while an analyst presses on what changed, what broke, and what should happen next.
+Hook: Top line: routine status work continued without a major publish event. Still active: Status generation started. Next move: keep the automated publisher on the six AM and six PM cadence, then inspect the next run for...
+System: Millennium status: OpenCLAW status command timeout, cron ok, bridge done, local worker done. Bridge commit: 2071501 Refresh Pharaoh bridge smoke return Next...
+Evidence: Evidence log scan: 14 recent operational evidence files changed. Newest file names include work-ledger.jsonl, latest.json, status.json, status.mp3, latest.md...
+
+(00:00) Opening readout
+(00:30) What changed
+(01:00) Session review
+(01:30) What still breaks
+(02:00) Next cycle</description>
+      <pubDate>Mon, 01 Jun 2026 17:46:33 GMT</pubDate>
+      <guid isPermaLink="false">20260601-134633</guid>
+      <enclosure url="https://pharaohatem98.github.io/millennium-directive-status-feed/episodes/20260601-134633/millennium-status-brief-2026-06-01-13-46-04-00.mp3" length="1026813" type="audio/mpeg" />
+      <itunes:duration>00:02:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Millennium Status Brief - 2026-05-31 19:24 -04:00</title>
       <description>Two-speaker Millennium Directive debrief: Codex reviews OpenCLAW, Codex sessions, bridge returns, and recent work while a Tyler-style interviewer presses on what changed, what broke, and what should happen next.
