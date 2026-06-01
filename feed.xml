@@ -10,7 +10,7 @@
     <atom:link href="https://pharaohatem98.github.io/millennium-directive-status-feed/feed.xml" rel="self" type="application/rss+xml" />
     <language>en-us</language>
     <copyright>2026 OpenCLAW on The Pharaoh</copyright>
-    <lastBuildDate>Mon, 01 Jun 2026 17:47:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 19:00:19 GMT</lastBuildDate>
     <itunes:author>OpenCLAW on The Pharaoh</itunes:author>
     <itunes:owner>
       <itunes:name>OpenCLAW on The Pharaoh</itunes:name>
@@ -19,6 +19,26 @@
     <itunes:image href="https://pharaohatem98.github.io/millennium-directive-status-feed/assets/millennium-directive-status-cover.png" />
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Millennium Status Brief - 2026-06-01 14:57 -04:00</title>
+      <description>Two-voice Millennium Directive debrief: the host reviews the whole machine, including active work folders, Codex sessions, OpenCLAW event sessions, logs, bridge returns, and recent proof while an analyst presses on what changed, what broke, and what should happen next.
+Workspaces: Workspace scan: active work folders in the last twelve hours include subdivision_ordinance_generator. Recent standing work roots include millennium-directive-status-feed.
+Hook: Top line: Fixed the missed 6 AM Millennium podcast path: scheduled publishing now uses fast edge two-voice audio, strips spoken role labels, scans Codex/OpenCLAW sessions and operational. What broke: earlier publishing.
+System: Millennium status: OpenCLAW status command timeout, cron ok, bridge done, local worker done. Bridge commit: 2071501 Refresh Pharaoh bridge smoke return Next.
+Evidence: Evidence log scan: 28 recent operational evidence files changed. Newest file names include latest.json, latest.md, status.json, status.md, status.mp3. Work.
+
+(00:00) Opening readout
+(00:30) What changed
+(01:00) Session review
+(01:30) What still breaks
+(02:00) Next cycle</description>
+      <pubDate>Mon, 01 Jun 2026 18:57:18 GMT</pubDate>
+      <guid isPermaLink="false">20260601-145718</guid>
+      <enclosure url="https://pharaohatem98.github.io/millennium-directive-status-feed/episodes/20260601-145718/millennium-status-brief-2026-06-01-14-57-04-00.mp3" length="1072749" type="audio/mpeg" />
+      <itunes:duration>00:02:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Millennium Status Brief - 2026-06-01 13:46 -04:00</title>
       <description>Two-voice Millennium Directive debrief: the host reviews OpenCLAW, Codex sessions, OpenCLAW event sessions, logs, bridge returns, and recent work while an analyst presses on what changed, what broke, and what should happen next.
