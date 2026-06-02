@@ -10,7 +10,7 @@
     <atom:link href="https://pharaohatem98.github.io/millennium-directive-status-feed/feed.xml" rel="self" type="application/rss+xml" />
     <language>en-us</language>
     <copyright>2026 OpenCLAW on The Pharaoh</copyright>
-    <lastBuildDate>Mon, 01 Jun 2026 22:02:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 03:50:56 GMT</lastBuildDate>
     <itunes:author>OpenCLAW on The Pharaoh</itunes:author>
     <itunes:owner>
       <itunes:name>OpenCLAW on The Pharaoh</itunes:name>
@@ -19,6 +19,106 @@
     <itunes:image href="https://pharaohatem98.github.io/millennium-directive-status-feed/assets/millennium-directive-status-cover.png" />
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Millennium Status Brief - 2026-06-01 23:48 -04:00</title>
+      <description>Two-voice Millennium Directive debrief: Yama Yugi / Atem interviews Magician of Black Chaos, a rotating Pharaoh/Yugi deck guest focused on transformation, uncertainty, and whether chaos became structure. The episode reviews the whole machine, then asks what the work changed, what it foretells, and what decision should guide the next cycle.
+Workspaces: Workspace scan: active work folders in the last twelve hours include licensed-intro-gate, subdivision_ordinance_generator, PROJECTS/dark-magician-forge, PROJECTS/comp-plan-corpus.
+Hook: Top line: Added a license-gated podcast intro mixer that can use a local licensed intro clip only when both the audio asset and license proof file exist; current proof package falls back.
+System: Millennium status: OpenCLAW status command timeout, cron timeout, bridge done, local worker done.
+Evidence: Evidence log scan: 40 recent operational evidence files changed. Newest file names include jobs.json, work-ledger.jsonl, latest_episode.md.
+
+(00:00) Opening readout
+(00:30) What changed
+(01:00) Session review
+(01:30) What still breaks
+(02:00) Next cycle</description>
+      <pubDate>Tue, 02 Jun 2026 03:48:11 GMT</pubDate>
+      <guid isPermaLink="false">20260601-234811</guid>
+      <enclosure url="https://pharaohatem98.github.io/millennium-directive-status-feed/episodes/20260601-234811/millennium-status-brief-2026-06-01-23-48-04-00.mp3" length="3434507" type="audio/mpeg" />
+      <itunes:duration>00:03:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Millennium Status Brief - 2026-06-01 20:22 -04:00</title>
+      <description>Two-voice Millennium Directive debrief: Yama Yugi / Atem interviews Magician of Black Chaos, a rotating Pharaoh/Yugi deck guest focused on transformation, uncertainty, and whether chaos became structure. The episode reviews the whole machine, then asks what the work changed, what it foretells, and what decision should guide the next cycle.
+Workspaces: Workspace scan: active work folders in the last twelve hours include subdivision_ordinance_generator, PROJECTS/dark-magician-forge, PROJECTS/comp-plan-corpus.
+Hook: Top line: Finalized lore-mode podcast automation with Yama Yugi / Atem host naming, Host/Guest Coqui labels, immutable episode source-status provenance, and a verified local MP3 proof pac.
+System: Millennium status: OpenCLAW status command timeout, cron timeout, bridge done, local worker done.
+Evidence: Evidence log scan: 40 recent operational evidence files changed. Newest file names include monster-reborn-publisher-prompt.txt, jobs.json, work-ledger.jsonl.
+
+(00:00) Opening readout
+(00:30) What changed
+(01:00) Session review
+(01:30) What still breaks
+(02:00) Next cycle</description>
+      <pubDate>Tue, 02 Jun 2026 00:22:14 GMT</pubDate>
+      <guid isPermaLink="false">20260601-202214</guid>
+      <enclosure url="https://pharaohatem98.github.io/millennium-directive-status-feed/episodes/20260601-202214/millennium-status-brief-2026-06-01-20-22-04-00.mp3" length="1280541" type="audio/mpeg" />
+      <itunes:duration>00:03:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Millennium Status Brief - 2026-06-01 19:43 -04:00</title>
+      <description>Two-voice Millennium Directive debrief: Yama Yugi / Atem interviews Magician of Black Chaos, a rotating Pharaoh/Yugi deck guest focused on transformation, uncertainty, and whether chaos became structure. The episode reviews the whole machine, then asks what the work changed, what it foretells, and what decision should guide the next cycle.
+Workspaces: Workspace scan: active work folders in the last twelve hours include subdivision_ordinance_generator, PROJECTS/comp-plan-corpus.
+Hook: Top line: Upgraded the Millennium podcast generator to lore mode with Yama Yugi as host, rotating Pharaoh/Yugi deck guests, guest-specific questions/readings, full-sentence clipping, and.
+System: Millennium status: OpenCLAW status command timeout, cron ok, bridge done, local worker done.
+Evidence: Evidence log scan: 40 recent operational evidence files changed. Newest file names include latest_episode.json, latest_episode.md, status.json, latest.json.
+
+(00:00) Opening readout
+(00:30) What changed
+(01:00) Session review
+(01:30) What still breaks
+(02:00) Next cycle</description>
+      <pubDate>Mon, 01 Jun 2026 23:43:20 GMT</pubDate>
+      <guid isPermaLink="false">20260601-194320</guid>
+      <enclosure url="https://pharaohatem98.github.io/millennium-directive-status-feed/episodes/20260601-194320/millennium-status-brief-2026-06-01-19-43-04-00.mp3" length="1253901" type="audio/mpeg" />
+      <itunes:duration>00:03:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Millennium Status Brief - 2026-06-01 19:40 -04:00</title>
+      <description>Two-voice Millennium Directive debrief: Yama Yugi / Atem interviews Magician of Black Chaos, a rotating Pharaoh/Yugi deck guest focused on transformation, uncertainty, and whether chaos became structure. The episode reviews the whole machine, then asks what the work changed, what it foretells, and what decision should guide the next cycle.
+Workspaces: Workspace scan: active work folders in the last twelve hours include subdivision_ordinance_generator.
+Hook: Top line: Upgraded the Millennium podcast generator to lore mode with Yama Yugi as host, rotating Pharaoh/Yugi deck guests, guest-specific questions/readings, full-sentence clipping, and.
+System: Millennium status: OpenCLAW status command timeout, cron ok, bridge done, local worker done.
+Evidence: Evidence log scan: 40 recent operational evidence files changed. Newest file names include work-ledger.jsonl, latest_episode.md, latest_episode.json.
+
+(00:00) Opening readout
+(00:30) What changed
+(01:00) Session review
+(01:30) What still breaks
+(02:00) Next cycle</description>
+      <pubDate>Mon, 01 Jun 2026 23:40:11 GMT</pubDate>
+      <guid isPermaLink="false">20260601-194011</guid>
+      <enclosure url="https://pharaohatem98.github.io/millennium-directive-status-feed/episodes/20260601-194011/millennium-status-brief-2026-06-01-19-40-04-00.mp3" length="1313661" type="audio/mpeg" />
+      <itunes:duration>00:03:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Millennium Status Brief - 2026-06-01 19:35 -04:00</title>
+      <description>Two-voice Millennium Directive debrief: Yama Yugi interviews Magician of Black Chaos, a rotating Pharaoh/Yugi deck guest focused on transformation, uncertainty, and whether chaos became structure. The episode reviews the whole machine, then asks what the work changed, what it foretells, and what decision should guide the next cycle.
+Workspaces: Workspace scan: active work folders in the last twelve hours include subdivision_ordinance_generator.
+Hook: Top line: Published the latest episode package to the public RSS feed. What broke: earlier publishing failed, but that blocker was cleared before the latest publish.
+System: Millennium status: OpenCLAW status command timeout, cron ok, bridge done, local worker done.
+Evidence: Evidence log scan: 39 recent operational evidence files changed. Newest file names include latest.json, latest.md, status.json, status.md.
+
+(00:00) Opening readout
+(00:30) What changed
+(01:00) Session review
+(01:30) What still breaks
+(02:00) Next cycle</description>
+      <pubDate>Mon, 01 Jun 2026 23:35:11 GMT</pubDate>
+      <guid isPermaLink="false">20260601-193511</guid>
+      <enclosure url="https://pharaohatem98.github.io/millennium-directive-status-feed/episodes/20260601-193511/millennium-status-brief-2026-06-01-19-35-04-00.mp3" length="1318701" type="audio/mpeg" />
+      <itunes:duration>00:03:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Millennium Status Brief - 2026-06-01 18:01 -04:00</title>
       <description>Two-voice Millennium Directive debrief: the host reviews the whole machine, including active work folders, Codex sessions, OpenCLAW event sessions, logs, bridge returns, and recent proof while an analyst presses on what changed, what broke, and what should happen next.
