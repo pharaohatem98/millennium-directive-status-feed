@@ -10,7 +10,7 @@
     <atom:link href="https://pharaohatem98.github.io/millennium-directive-status-feed/feed.xml" rel="self" type="application/rss+xml" />
     <language>en-us</language>
     <copyright>2026 OpenCLAW on The Pharaoh</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 00:27:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 01:20:58 GMT</lastBuildDate>
     <itunes:author>OpenCLAW on The Pharaoh</itunes:author>
     <itunes:owner>
       <itunes:name>OpenCLAW on The Pharaoh</itunes:name>
@@ -19,6 +19,54 @@
     <itunes:image href="https://pharaohatem98.github.io/millennium-directive-status-feed/assets/millennium-directive-status-cover.png" />
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Millennium Status Brief - 2026-06-03 21:19 -04:00</title>
+      <description>Multi-voice Millennium Directive debrief: Yama Yugi / Atem interviews Gaia the Fierce Knight, Joey translates technical terms into plain English, and three listener questions press on social benefit, intent, and next steps. The episode opens with the licensed intro, sets the active front and conflict, reviews the whole machine, checks receipts, forecasts the next turn, and names the decision Tyler should make next.
+Workspaces: Several active project folders changed; the episode focuses on why those moves matter.
+Hook: Top line: routine status work continued without a major publish event. Still active: Status generation started.
+System: Millennium status: the scheduled worker ok, scheduled job ok, bridge done, local worker done.
+Evidence: Recent receipts changed, including status records, publisher state, and episode metadata.
+
+(00:00) Licensed intro and hook
+(00:15) The active front
+(00:45) Scene from the machine
+(01:15) Conflict and substance
+(02:00) Joey pulls up plain English
+(02:45) Receipts and the scheduled worker
+(03:30) Forecast
+(04:00) Listener questions
+(05:00) Next move</description>
+      <pubDate>Thu, 04 Jun 2026 01:19:13 GMT</pubDate>
+      <guid isPermaLink="false">20260603-211913</guid>
+      <enclosure url="https://pharaohatem98.github.io/millennium-directive-status-feed/episodes/20260603-211913/millennium-status-brief-2026-06-03-21-19-04-00.mp3" length="4318073" type="audio/mpeg" />
+      <itunes:duration>00:04:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Millennium Status Brief - 2026-06-03 20:38 -04:00</title>
+      <description>Multi-voice Millennium Directive debrief: Yama Yugi / Atem interviews Gaia the Fierce Knight, Joey translates technical terms into plain English, and three listener questions press on social benefit, intent, and next steps. The episode opens with the licensed intro, sets the active front and conflict, reviews the whole machine, checks receipts, forecasts the next turn, and names the decision Tyler should make next.
+Workspaces: Several active project folders changed; the episode focuses on why those moves matter.
+Hook: Top line: Generated and packaged the latest 12-hour status episode. What broke: page.waitForTimeout: Target page, context or browser has been closed; Spotify login required in the Magician.
+System: Millennium status: the scheduled worker ok, scheduled job ok, bridge done, local worker done.
+Evidence: Recent receipts changed, including status records, publisher state, and episode metadata.
+
+(00:00) Licensed intro and hook
+(00:15) The active front
+(00:45) Scene from the machine
+(01:15) Conflict and substance
+(02:00) Joey pulls up plain English
+(02:45) Receipts and the scheduled worker
+(03:30) Forecast
+(04:00) Listener questions
+(05:00) Next move</description>
+      <pubDate>Thu, 04 Jun 2026 00:38:36 GMT</pubDate>
+      <guid isPermaLink="false">20260603-203836</guid>
+      <enclosure url="https://pharaohatem98.github.io/millennium-directive-status-feed/episodes/20260603-203836/millennium-status-brief-2026-06-03-20-38-04-00.mp3" length="3798968" type="audio/mpeg" />
+      <itunes:duration>00:03:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Millennium Status Brief - 2026-06-03 20:18 -04:00</title>
       <description>Multi-voice Millennium Directive debrief: Yama Yugi / Atem interviews Gaia the Fierce Knight, Joey translates technical terms into plain English, and three listener questions press on social benefit, intent, and next steps. The episode opens with the licensed intro, sets the active front and conflict, reviews the whole machine, checks receipts, forecasts the next turn, and names the decision Tyler should make next.
