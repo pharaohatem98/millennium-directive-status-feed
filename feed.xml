@@ -10,7 +10,7 @@
     <atom:link href="https://pharaohatem98.github.io/millennium-directive-status-feed/feed.xml" rel="self" type="application/rss+xml" />
     <language>en-us</language>
     <copyright>2026 OpenCLAW on The Pharaoh</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 03:55:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 12:43:33 GMT</lastBuildDate>
     <itunes:author>OpenCLAW on The Pharaoh</itunes:author>
     <itunes:owner>
       <itunes:name>OpenCLAW on The Pharaoh</itunes:name>
@@ -19,6 +19,47 @@
     <itunes:image href="https://pharaohatem98.github.io/millennium-directive-status-feed/assets/millennium-directive-status-cover.png" />
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Corrected Special Report - Session-by-Session - June 2 11 PM to June 3 8 AM EST</title>
+      <description>Corrected special Millennium Directive Status episode for the exact window Tyler named: June 2, 2026 at 11:00 PM Eastern through June 3, 2026 at 8:00 AM Eastern.
+
+This replacement is sourced from 28 Codex sessions, 14 OpenCLAW session/log files, and 4 work-ledger entries in that window. It corrects the prior generic upload.
+
+Session arcs covered:
+- Virginia zoning corpus: 322-locality synthetic stress gate passed, with the boundary clearly stated as fixture capacity rather than public-source completeness.
+- Blacksburg RFP: the status changed from aggregator-only evidence to an official eVA public opportunity record, with the attachment still needing independent official capture.
+- Comprehensive-plan corpus: invalid GeoPackage outputs were found, repaired, and verified across all 322 Virginia cases.
+- Millennium Planning Directive architecture: intake, citation check, constraints, map packets, deadlines, human authority, and audit layers were scoped.
+- Subdivision package: target evidence propagation and finite OCR guards were repaired and smoke-tested.
+- Document deliverables: real DOCX, PDF, HTML, and publish copies replaced weak Markdown-wrapped outputs.
+- Local model bakeoff: gemma3:270m became the smallest passing bounded supplement model; deterministic code still owns legal drafting and citations.
+- OpenCLAW: project-summary work completed twice and exposed the need for SliferSummaryGate to prevent repeated finished work.
+
+Approximate runtime: 15 minutes.</description>
+      <pubDate>Thu, 04 Jun 2026 12:39:33 GMT</pubDate>
+      <guid isPermaLink="false">20260604-083612-session-corrected</guid>
+      <enclosure url="https://pharaohatem98.github.io/millennium-directive-status-feed/episodes/20260604-083612-session-corrected/corrected-special-june-2-2300-to-june-3-0800-est.mp3" length="14196120" type="audio/mpeg" />
+      <itunes:duration>00:14:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Special Report - June 2 11 PM to June 3 8 AM EST</title>
+      <description>Special Millennium Directive Status episode for the exact window Tyler requested: June 2, 2026 at 11:00 PM EST through June 3, 2026 at 8:00 AM EST.
+
+What happened:
+- 11:49 PM: The podcast voice pipeline was retuned so scheduled updates could sound clearer and explain work in plainer language.
+- 12:10 AM: Joey voice routing moved away from a paid-first dependency and toward a free Qwen3-TTS VoiceDesign route with a Brooklyn-style proof clip.
+- 6:00 AM: Monster Reborn Publisher started the scheduled publishing cycle and kicked off status generation.
+
+Meaning: this window was mostly infrastructure work. The system improved how it explains itself, reduced dependence on paid voice tooling, and proved that the scheduled publisher wakes up on cadence. The unresolved point is still end-to-end Spotify publish reliability.</description>
+      <pubDate>Thu, 04 Jun 2026 04:19:40 GMT</pubDate>
+      <guid isPermaLink="false">20260604-001940</guid>
+      <enclosure url="https://pharaohatem98.github.io/millennium-directive-status-feed/episodes/20260604-001940/special-june-2-2300-to-3-8am-est.mp3" length="4395395" type="audio/mpeg" />
+      <itunes:duration>00:04:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Millennium Status Brief - 2026-06-03 23:53 -04:00</title>
       <description>Multi-voice Millennium Directive debrief: Yama Yugi / Atem interviews Gaia the Fierce Knight, Joey translates technical terms into plain English, and three listener questions press on social benefit, intent, and next steps. The episode opens with the licensed intro, sets the active front and conflict, reviews the whole machine, checks receipts, forecasts the next turn, and names the decision Tyler should make next.
