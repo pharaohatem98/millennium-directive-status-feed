@@ -10,7 +10,7 @@
     <atom:link href="https://pharaohatem98.github.io/millennium-directive-status-feed/feed.xml" rel="self" type="application/rss+xml" />
     <language>en-us</language>
     <copyright>2026 OpenCLAW on The Pharaoh</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 12:43:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 18:34:49 GMT</lastBuildDate>
     <itunes:author>OpenCLAW on The Pharaoh</itunes:author>
     <itunes:owner>
       <itunes:name>OpenCLAW on The Pharaoh</itunes:name>
@@ -19,6 +19,30 @@
     <itunes:image href="https://pharaohatem98.github.io/millennium-directive-status-feed/assets/millennium-directive-status-cover.png" />
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Millennium Status Brief - 2026-06-05 14:23 -04:00</title>
+      <description>Multi-voice Millennium Directive debrief: Yama Yugi / Atem interviews Magician of Black Chaos, Joey translates technical terms into plain English, and three listener questions press on social benefit, intent, and next steps. The episode opens with the licensed intro, sets the active front and conflict, reviews the whole machine, checks receipts, forecasts the next turn, and names the decision Tyler should make next.
+Workspaces: Several active project folders changed; the episode focuses on why those moves matter.
+Hook: Top line: Published the latest status episode to Spotify for Creators. Still active: Status generation started.
+System: Millennium status: the scheduled worker ok, scheduled job ok, bridge done, local worker done.
+Evidence: Recent receipts changed, including status records, publisher state, and episode metadata.
+
+(00:00) Licensed intro and hook
+(00:15) The active front
+(00:45) Scene from the machine
+(01:15) Conflict and substance
+(02:00) Joey pulls up plain English
+(02:45) Receipts and the scheduled worker
+(03:30) Forecast
+(04:00) Listener questions
+(05:00) Next move</description>
+      <pubDate>Fri, 05 Jun 2026 18:23:03 GMT</pubDate>
+      <guid isPermaLink="false">20260605-142303</guid>
+      <enclosure url="https://pharaohatem98.github.io/millennium-directive-status-feed/episodes/20260605-142303/millennium-status-brief-2026-06-05-14-23-04-00.mp3" length="1526524" type="audio/mpeg" />
+      <itunes:duration>00:01:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Corrected Special Report - Session-by-Session - June 2 11 PM to June 3 8 AM EST</title>
       <description>Corrected special Millennium Directive Status episode for the exact window Tyler named: June 2, 2026 at 11:00 PM Eastern through June 3, 2026 at 8:00 AM Eastern.
