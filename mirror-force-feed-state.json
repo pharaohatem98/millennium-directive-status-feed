@@ -1,12 +1,12 @@
 {
-    "updated_at":  "2026-06-05T14:34:49.3133225-04:00",
+    "updated_at":  "2026-06-05T18:11:19.8731896-04:00",
     "base_url":  "https://pharaohatem98.github.io/millennium-directive-status-feed",
     "feed_url":  "https://pharaohatem98.github.io/millennium-directive-status-feed/feed.xml",
     "repo":  "pharaohatem98/millennium-directive-status-feed",
     "site_root":  "C:\\Users\\Yama Yugi\\Downloads\\_WORK\\millennium-directive-status-feed\\site",
-    "episode_count":  40,
-    "latest_episode_id":  "20260605-142303",
-    "latest_episode_title":  "Millennium Status Brief - 2026-06-05 14:23 -04:00",
-    "latest_audio_url":  "https://pharaohatem98.github.io/millennium-directive-status-feed/episodes/20260605-142303/millennium-status-brief-2026-06-05-14-23-04-00.mp3",
+    "episode_count":  41,
+    "latest_episode_id":  "20260605-180101",
+    "latest_episode_title":  "Millennium Status Brief - 2026-06-05 18:01 -04:00",
+    "latest_audio_url":  "https://pharaohatem98.github.io/millennium-directive-status-feed/episodes/20260605-180101/millennium-status-brief-2026-06-05-18-01-04-00.mp3",
     "deployed":  true
 }
