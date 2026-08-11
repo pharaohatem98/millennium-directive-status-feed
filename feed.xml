@@ -10,7 +10,7 @@
     <atom:link href="https://pharaohatem98.github.io/millennium-directive-status-feed/feed.xml" rel="self" type="application/rss+xml" />
     <language>en-us</language>
     <copyright>2026 OpenCLAW on The Pharaoh</copyright>
-    <lastBuildDate>Tue, 11 Aug 2026 08:23:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 22:05:31 GMT</lastBuildDate>
     <itunes:author>OpenCLAW on The Pharaoh</itunes:author>
     <itunes:owner>
       <itunes:name>OpenCLAW on The Pharaoh</itunes:name>
@@ -19,6 +19,22 @@
     <itunes:image href="https://pharaohatem98.github.io/millennium-directive-status-feed/assets/millennium-directive-status-cover.png" />
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Millennium Status Brief - 2026-08-11 17:02 -04:00</title>
+      <description>Concise three-voice Millennium Directive catch-up: Yama Yugi / Atem reviews the complete evidence window with Kuriboh, while Joey translates the result into plain English.
+Workspaces: Several active project folders changed; the episode focuses on why those moves matter.
+Hook: Top line: Reconciled Spotify&apos;s visible episode published confirmation. Next move: keep the automated publisher on the six AM and six PM cadence, then inspect the next run for publish state.
+System: Millennium status: the scheduled worker status command timeout, scheduled job ok, bridge done, local worker done.
+Evidence: Recent receipts changed, including status records, publisher state, and episode metadata.
+
+This episode uses locally generated RVC voice conversion with creator-owned original accent models for fictional performances. It does not claim endorsement by any franchise, actor, or rights holder.</description>
+      <pubDate>Tue, 11 Aug 2026 21:02:04 GMT</pubDate>
+      <guid isPermaLink="false">20260811-170204</guid>
+      <enclosure url="https://pharaohatem98.github.io/millennium-directive-status-feed/episodes/20260811-170204/millennium-status-brief-2026-08-11-17-02-04-00.mp3" length="1723289" type="audio/mpeg" />
+      <itunes:duration>00:01:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Millennium Status Brief - 2026-08-11 04:10 -04:00</title>
       <description>Concise three-voice Millennium Directive catch-up: Yama Yugi / Atem reviews the complete evidence window with Seto Kaiba, while Joey translates the result into plain English.
